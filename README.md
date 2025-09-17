@@ -1,6 +1,9 @@
-<!-- HEADER: animated banner + typing line -->
+<!-- HEADER: animated banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,100:0a3d62&text=Andrew%20Kola%20%7C%20Security%20Analyst&fontColor=F8F8F2&fontSize=36&desc=Threat%20Detection%20•%20SOC%20Ops%20•%20Incident%20Response&descAlignY=65&animation=fadeIn" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f0f0f,100:0a3d62&text=Andrew%20Kola%20%7C%20Entry%20Level%20Security%20Analyst&fontColor=F8F8F2&fontSize=36&animation=fadeIn" alt="header"/>
+</p>
+<p align="center" style="margin-top:-26px;">
+<img src="https://readme-typing-svg.demolab.com?font=Mono&weight=700&size=25&duration=1800&pause=800&color=3178C6&center=true&vCenter=true&width=720&lines=Threat+Detection;SOC+Ops;Incident+Response" alt="typing animation"/>
 </p>
 
 ## 🤝 Connect with me!
@@ -25,34 +28,61 @@ My focus: **endpoint security, SOC operations, threat detection, and incident re
 ---
 
 ## 🧰 Security Toolkit
-**Security & Monitoring:** Splunk · Elastic · LimaCharlie EDR · Wireshark · TCPdump · Sysmon 
-**IR & Threat Hunting:** Sigma · KQL · MITRE ATT&CK mapping · Log analysis · Triage workflows  
-**IAM:** Active Directory (user/group policies, endpoint hardening)  
-**Cloud & Virtualization:** AWS IAM · Azure VM configs · VMware · Hyper-V · VirtualBox  
-**Programming & Automation:** Python · PowerShell · Bash · n8n automation · HTML/CSS/JS  
-**Other:** SOP writing · Incident documentation · Process improvement  
 
----
+<!-- Grouped, collapsible stacks with badge-style pills -->
+<details open>
+  <summary><b>Security & Monitoring</b></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/LimaCharlie-111827?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sysmon-0B7285?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wireshark-1F6FEB?style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/TCPdump-334155?style=for-the-badge&logo=linux&logoColor=white" />
+  </p>
+</details>
 
-## 🗺️ Incident Flow (Sequence)
-```mermaid
-sequenceDiagram
-participant EP as Endpoint
-participant LC as LimaCharlie EDR
-participant SIEM as SIEM (Elastic/Splunk)
-participant ANA as Analyst
-participant IR as IR Playbook
+<details open>
+  <summary><b>IR & Threat Hunting</b></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Sigma-111827?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/KQL-0A3D62?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/SPL-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-CC0000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Log%20Analysis-374151?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Triage%20Workflows-374151?style=for-the-badge" />
+  </p>
+</details>
 
+<details open>
+  <summary><b>IAM • Cloud • Virtualization</b></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Active%20Directory-2564EB?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hyper--V-5B2C6F?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  </p>
+</details>
 
-EP->>LC: Telemetry (Sysmon events)
-LC-->>SIEM: Alerts + logs
-SIEM-->>ANA: Notable event
-ANA->>SIEM: Hunt (Sigma/KQL/SPL)
-ANA->>IR: Triage → classify severity
-IR-->>EP: Contain (isolate, kill proc)
-IR-->>SIEM: Notes + tags
-ANA-->>SIEM: Lessons learned (rule tune)
-```
+<details open>
+  <summary><b>Programming & Automation</b></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/n8n-FA5A28?style=for-the-badge&logo=n8n&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-1F2937?style=for-the-badge&logo=javascript&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Ops & Documentation</b></summary>
+  <p>
+    <img src="https://img.shields.io/badge/SOP%20Writing-374151?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Incident%20Docs-374151?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Process%20Improvement-374151?style=for-the-badge" />
+  </p>
+</details> 
+
 ---
 
 ## 🧪 Products
@@ -93,6 +123,4 @@ ANA-->>SIEM: Lessons learned (rule tune)
   <img height="160" src="https://streak-stats.demolab.com?user=andrewkolagit&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=andrewkolagit&color=00aaff&label=Profile%20views" alt="profile views"/>
-</p>
+---
