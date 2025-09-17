@@ -34,17 +34,25 @@ My focus: **endpoint security, SOC operations, threat detection, and incident re
 
 ---
 
-## 🗺️ SOC Workflow Map
+## 🗺️ Incident Flow (Sequence)
 ```mermaid
-flowchart LR
-  A[Telemetry: Sysmon, TCPdump] --> B[SIEM: Elastic · Splunk · LimaCharlie]
-  B --> C{Detections: Sigma · KQL · SPL}
-  C -->|Alert| D[IR: Triage · Investigation · Escalation]
-  D --> E[Response: Contain · Eradicate · Recover]
-  E --> F[Lessons Learned: Hardening · Playbooks]
-  F --> C
-```
+sequenceDiagram
+participant EP as Endpoint
+participant LC as LimaCharlie EDR
+participant SIEM as SIEM (Elastic/Splunk)
+participant ANA as Analyst
+participant IR as IR Playbook
 
+
+EP->>LC: Telemetry (Sysmon events)
+LC-->>SIEM: Alerts + logs
+SIEM-->>ANA: Notable event
+ANA->>SIEM: Hunt (Sigma/KQL/SPL)
+ANA->>IR: Triage → classify severity
+IR-->>EP: Contain (isolate, kill proc)
+IR-->>SIEM: Notes + tags
+ANA-->>SIEM: Lessons learned (rule tune)
+```
 ---
 
 ## 🔬 Products
