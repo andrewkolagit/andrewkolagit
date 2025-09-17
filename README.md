@@ -55,34 +55,35 @@ ANA-->>SIEM: Lessons learned (rule tune)
 ```
 ---
 
-## 🔬 Products
-<p align="left">
-  <a href="https://github.com/andrewkolagit/DetectPack-Forge">
-    <img src="https://img.shields.io/badge/DetectPack_Forge-Open_Project-0a3d62?style=for-the-badge&logo=github" alt="DetectPack Forge"/>
-  </a><br/>
-  <sub>Plain-English behaviors ➜ detection packs (Sigma/KQL/SPL) with AI-powered schema inference + MITRE ATT&CK mapping.</sub>
-</p>
+## 🧪 Products
 
-<p align="left">
-  <a href="https://github.com/andrewkolagit/AI-Powered-Incident-Responder">
-    <img src="https://img.shields.io/badge/AI_Powered_Incident_Responder-Workflow-111827?style=for-the-badge&logo=github" alt="AI-Powered Incident Responder"/>
-  </a><br/>
-  <sub>Automated detection → analysis → reporting using Gemini + n8n; outputs to Gmail/Google Sheets.</sub>
-</p>
+  <p align="left">
+    <a href="https://github.com/andrewkolagit/DetectPack-Forge">
+      <img width="278"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewkolagit&repo=DetectPack-Forge&theme=react&bg_color=1F222E&title_color=F85D7&hide_border=true&icon_color=F8D866&show_icons=false"
+        alt="DetectPack-Forge">
+    </a>
+    <a href="https://github.com/andrewkolagit/AI-Powered-Incident-Responder">
+      <img width="278"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewkolagit&repo=AI-Powered-Incident-Responder&theme=react&bg_color=1F222E&title_color=F85D7&hide_border=true&icon_color=F8D866&show_icons=false"
+        alt="AI-Powered-Incident-Responder">
+    </a>
+    <a href="https://github.com/andrewkolagit/My-SOC-Analyst-Home-Lab">
+      <img width="278"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewkolagit&repo=My-SOC-Analyst-Home-Lab&theme=react&bg_color=1F222E&title_color=F85D7&hide_border=true&icon_color=F8D866&show_icons=false"
+        alt="My-SOC-Analyst-Home-Lab">
+    </a>
+    <a href="https://github.com/andrewkolagit/Python-Keylogger-Project">
+      <img width="278"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewkolagit&repo=Python-Keylogger-Project&theme=react&bg_color=1F222E&title_color=F85D7&hide_border=true&icon_color=F8D866&show_icons=false"
+        alt="Python-Keylogger-Project">
+    </a>
+  </p>
 
-<p align="left">
-  <a href="https://github.com/andrewkolagit/My-SOC-Analyst-Home-Lab">
-    <img src="https://img.shields.io/badge/SOC_Analyst_Home_Lab-LimaCharlie_%2B_Sysmon-0b7285?style=for-the-badge&logo=github" alt="SOC Analyst Home Lab"/>
-  </a><br/>
-  <sub>Virtualized SOC with LimaCharlie + Sliver C2 for attack/defense sims, detections, and IR runbooks.</sub>
-</p>
-
-<p align="left">
-  <a href="https://github.com/andrewkolagit/Python-Keylogger-Project">
-    <img src="https://img.shields.io/badge/Python_Keylogger-Research_Lab-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python Keylogger Project"/>
-  </a><br/>
-  <sub>Controlled malware simulation to study telemetry and defensive controls.</sub>
-</p>
+  <a href="https://github.com/andrewkolagit?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories"
+      src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
 
 ---
 
