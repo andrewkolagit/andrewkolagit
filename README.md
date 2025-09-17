@@ -79,7 +79,6 @@ flowchart LR
 ---
 
 ## 📈 GitHub Stats
-## 📈 GitHub Stats
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=andrewkolagit&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" />
   <img height="160" src="https://streak-stats.demolab.com?user=andrewkolagit&theme=tokyonight&hide_border=true" />
