@@ -67,6 +67,7 @@ My focus: **endpoint security, SOC operations, threat detection, and incident re
   <summary><b>Programming & Automation</b></summary>
   <p>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-128400?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white" />
     <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/n8n-FA5A28?style=for-the-badge&logo=n8n&logoColor=white" />
