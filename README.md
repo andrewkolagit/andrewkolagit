@@ -93,6 +93,11 @@ My focus: **endpoint security, SOC operations, threat detection, and incident re
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewkolagit&repo=DetectPack-Forge&theme=react&bg_color=1F222E&title_color=F85D7&hide_border=true&icon_color=F8D866&show_icons=false"
         alt="DetectPack-Forge">
     </a>
+    <a href="https://github.com/andrewkolagit/TaskManagementAPI">
+      <img width="278"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewkolagit&repo=DetectPack-Forge&theme=react&bg_color=1F222E&title_color=F85D7&hide_border=true&icon_color=F8D866&show_icons=false"
+        alt="TaskManagementAPI">
+    </a>
     <a href="https://github.com/andrewkolagit/AI-Powered-Incident-Responder">
       <img width="278"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewkolagit&repo=AI-Powered-Incident-Responder&theme=react&bg_color=1F222E&title_color=F85D7&hide_border=true&icon_color=F8D866&show_icons=false"
