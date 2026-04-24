@@ -1,9 +1,10 @@
 <!-- HEADER: animated banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f0f0f,100:0a3d62&text=Andrew%20Kola%20%7C%20Entry%20Level%20Security%20Analyst%20and%20IT%20Support%20Specialist&fontColor=F8F8F2&fontSize=36&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f0f0f,100:0a3d62&text=Andrew%20Kola%20%7C%20Security%20Analyst&fontColor=F8F8F2&fontSize=32&animation=fadeIn" />
 </p>
-<p align="center" style="margin-top:-26px;">
-<img src="https://readme-typing-svg.demolab.com?font=Mono&weight=700&size=25&duration=1800&pause=800&color=3178C6&center=true&vCenter=true&width=720&lines=Threat+Detection;SOC+Ops;Incident+Response" alt="typing animation"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Mono&weight=700&size=25&duration=1800&pause=800&color=3178C6&center=true&vCenter=true&width=720&lines=Threat+Detection;SOC+Ops;Incident+Response;IT+Support" />
 </p>
 
 ## 🤝 Connect with me!
