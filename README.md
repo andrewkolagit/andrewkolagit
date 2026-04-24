@@ -1,7 +1,7 @@
 <!-- HEADER: animated banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f0f0f,100:0a3d62&text=Andrew%20Kola&fontColor=F8F8F2&fontSize=30&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f0f0f,100:0a3d62&text=Andrew%20Kola&fontColor=F8F8F2&fontSize=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?text=Andrew%20Kola&fontColor=F8F8F2&fontSize=30&animation=fadeIn" />
 </p>
 
 <p align="center">
