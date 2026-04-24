@@ -1,6 +1,6 @@
 <!-- HEADER: animated banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0:0f0f0f,100:0a3d62&text=Andrew%20Kola&desc=Security%20and%20IT%20Support%20Analyst&descAlignY=58&fontSize=34&descSize=18&fontColor=F8F8F2&descColor=D9E6F2&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,100:0a3d62&text=Andrew%20Kola&desc=Security%20and%20IT%20Support%20Analyst&descAlignY=62&fontSize=36&descSize=20&fontColor=F8F8F2&descColor=D9E6F2&animation=fadeIn" />
 </p>
 
 <p align="center">
