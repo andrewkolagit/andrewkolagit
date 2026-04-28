@@ -18,7 +18,7 @@
 ---
 
 ## 🛰️ About
-I’m **Andrew Wycliffe Kola**, a Security Analyst in the making (M.S. in Cybersecurity & Information Systems). I focus on **endpoint security, SOC operations, threat detection, and incident response**—and I like using **automation/LLMs** to cut toil and speed investigations.
+I’m **Andrew Wycliffe Kola**, a **Security** and **IT Support Analyst** in the making (M.S. in Cybersecurity & Information Systems). I focus on **endpoint security, SOC operations, threat detection, and incident response**—and I like using **automation/LLMs** to cut toil and speed investigations.
 My focus: **endpoint security, SOC operations, threat detection, and incident response**—with a side of **AI-driven automation**.
 
 - 🛡️ **Hands-on Projects**: SOC Analyst Home Lab, Python Keylogger Simulation, AI-Powered Incident Responder  
